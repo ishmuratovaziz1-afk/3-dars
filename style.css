@@ -12,11 +12,11 @@ table tr:nth-child(odd) {
 }
 
 table{
-  border: solid #000000 2px;
-  border-color: solid #17a5be;
+  border: solid #7b1212 2px;
+  border-color: solid #3a7a86;
 }
 .table-border-color{
-  background-color: #17a5be;
+  background-color: #627f84;
 }
 .header-head{
 display: flex;
